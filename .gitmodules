@@ -1,0 +1,9 @@
+[submodule "saleor"]
+path = saleor
+url = https://github.com/cong1912/saleor
+[submodule "saleor-dashboard"]
+path = saleor-dashboard
+url = https://github.com/cong1912/saleor-dashboard
+[submodule "react-storefront"]
+	path = react-storefront
+	url = https://github.com/cong1912/react-storefront
